@@ -194,7 +194,7 @@ div,li {
     width: 100%;
     color: #fff;
     background-color: #251e19;
-    height: 150px;
+    height: 75px;
     position: absolute;
     bottom: 0;
 }
@@ -202,7 +202,6 @@ div,li {
 .footer_nav{
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
 }
 
 .footer_nav_item{
@@ -213,6 +212,10 @@ div,li {
     color: #fff;
     text-decoration: none;
     font-size: 15px;
+}
+
+.footer_logo{
+  width: 80px;
 }
 
 .footer_right{
